@@ -8,6 +8,8 @@ microservices
 kubernetes
 ci/cd
 
+Hibernate/JPA bhi use krna Spring Boot mei MSSQL k saath
+
 
 git branch -m master main
 
